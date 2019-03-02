@@ -1,0 +1,19 @@
+#ola
+{
+width:200px;
+height:200px;
+background-color:green;
+}
+p
+{
+color: white;
+}
+#kuba
+{
+    width:200px;
+    height:200px;
+    background-color: red;
+}
+div{
+    display: inline-block;
+}
